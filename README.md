@@ -10,5 +10,6 @@ Performed clustering analysis to group contestants based on performance metrics,
 - Data Visualization: Visualized clustering results using scatter plots and cluster centroids, making it easier to interpret and present the insights gained from the analysis.
 - Interpretation of Results: Analyzed the characteristics of each cluster to understand common traits among contestants and their relationship to overall competition outcomes.
 
-<img src="./Projeto_Masterchef_Metodologia.png" width="400" />
-<img src=".Beatriz_Portfolio/images/10clustering.png" width="400" />
+<img src="./Projeto_Masterchef_Metodologia.png" width="600" />
+<img src="./images/9elbowchart.png" width="400" />
+<img src="./images/10clustering.png" width="400" />
